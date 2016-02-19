@@ -1,0 +1,14 @@
+layout_spectrum: 0.1033355
+typography_spectrum: 0.01702691
+color:
+  saturation: 0.8720928
+  lightness: 0.1216421
+  brandStrength: 0.7380413
+  rhythmicContrast: 0.2943021
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: 'Buildtech '
