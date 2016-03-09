@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Buildtech ]]></title>
         <description><![CDATA[Buildtech ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/buildtech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 00:45:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 17:34:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/buildtech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dubai building will be entirely 3D printed, right down to the furniture]]></title>
+            <description><![CDATA[<article><h1>Dubai building will be entirely 3D printed, right down to the furniture</h1><p>According to 3DPrint.com, the project with use Special Reinforced Concrete (SRC), Fiber Reinforced Plastic (FRP), and Glass Fiber Reinforced Gypsum (GRG). Heck, even the furniture that's going inside will be 3D printed in addition to both the interior and exterior walls.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cf7804b57fd1fd69994f84f140699e541ed1b66.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2015/07/02/dubai-3d-printed-building-museum-of-the-future/</link>
+            <guid isPermaLink="false">59de11dc-f3a9-4c99-aedb-e80b67a2efbe</guid>
+            <pubDate>Wed, 09 Mar 2016 17:34:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CAT S60 Hands-On: The Phone That Lets You See Like Predator Is Awesome]]></title>
             <description><![CDATA[<article><h1>CAT S60 Hands-On: The Phone That Lets You See Like Predator Is Awesome</h1><p>Most phones these days are basically the same. A little gimmick here, a pinch of innovation there-but essentially they're all identical. That's not the case with the Cat S60, which is the first smartphone to have FLIR thermal imaging built in. We tried the little beast at MWC and boy, this thing is insane.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08ff2a4b78faca18f3e58c103a4cf9f2c1e97f6e.jpg"></article>]]></description>
