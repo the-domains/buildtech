@@ -4,15 +4,8 @@
         <description><![CDATA[Buildtech ]]></description>
         <link>https://thegrid.ai/buildtech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 22:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 22:30:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/buildtech/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Why BIM Education Needs Another Look > ENGINEERING.com]]></title>
-            <description><![CDATA[<article><h1>Why BIM Education Needs Another Look > ENGINEERING.com</h1><p>Building information modeling (BIM) is quickly becoming a universal tool. It's used by architects, engineers and facility managers across the globe and is mandated in countries such as Australia, Brazil, China, Germany and the UK. However, there's one universal issue when it comes to BIM: a lack of consistency in education.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05888d1be1260e98cddefa66fa37f06aa287677c.jpg"></article>]]></description>
-            <link>http://www.engineering.com/BIM/ArticleID/12025/Why-BIM-Education-Needs-Another-Look.aspx</link>
-            <guid isPermaLink="false">8582fca0-5372-4e09-a10b-f29ff9e3d5fc</guid>
-            <pubDate>Wed, 11 May 2016 22:29:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Architecture Firm to Bring Virtual Reality to BIM > ENGINEERING.com]]></title>
             <description><![CDATA[<article><h1>Architecture Firm to Bring Virtual Reality to BIM > ENGINEERING.com</h1><p>Virtual Reality (VR) has all kinds of applications-and although it's currently most popular as a gaming tool, it could be quite useful for architecture, engineering and construction (AEC) as well. Practical use of VR in AEC is currently the subject of extensive research, but it could become much more accessible following a recent partnership between architecture firm NBBJ and VR developer Visual Vocal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6601ee5d5dc4d823267353db4a17080acf2e7798.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://techcrunch.com/2016/02/02/investment-in-architizer-shows-that-if-youre-building-it-venture-capital-will-come/</link>
             <guid isPermaLink="false">c6913b49-dd3c-444b-ae30-a477762e4ff0</guid>
             <pubDate>Wed, 11 May 2016 17:12:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Construction App Fieldwire Raises $6.6 Million, Led by Formation 8]]></title>
+            <description><![CDATA[<article><h1>Construction App Fieldwire Raises $6.6 Million, Led by Formation 8</h1><p>Fieldwire, a San Francisco-based mobile and web platform designed to make collaboration on construction projects more efficient, has raised $6.6 million in fresh funding led by Formation 8. Other participants in the round included Trinity Ventures and earlier backers BloombergBeta and AngelPad, the investment fund and accelerator where the company first gained investors' attention in the fall of 2013.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecebe53cf044b6680160a49a2b3e58f16d859f7e.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2015/10/27/construction-app-fieldwire-raises-6-6-million-led-by-formation-8/</link>
+            <guid isPermaLink="false">115dcc9d-a420-4e4c-8504-d3d9a74212a0</guid>
+            <pubDate>Wed, 11 May 2016 17:12:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
