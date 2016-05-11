@@ -7,6 +7,13 @@
         <lastBuildDate>Wed, 11 May 2016 17:13:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/buildtech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Technology Survey Reveals Most US Companies Can't Deliver As-Built BIM Models]]></title>
+            <description><![CDATA[<article><h1>Technology Survey Reveals Most US Companies Can't Deliver As-Built BIM Models</h1><p>The JBKnowledge 2015 Construction Technology Report received 2,044 responses from construction industry professionals, polled between June 17 and July 8, 2015. JBKnowledge conducted the survey in conjunction with the Construction Financial Management Association, the Texas A&M University Department of Construction Science and HCSS construction software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d525ce1a0167332f75c4687919b7efa72aad20d7.png"></article>]]></description>
+            <link>http://www.enr.com/articles/38532-recent-technology-survey-reveals-most-us-companies-cant-do-as-built-bim-models?v=preview</link>
+            <guid isPermaLink="false">692a75ee-d40e-4745-a925-96ffd6e33ddf</guid>
+            <pubDate>Wed, 11 May 2016 17:13:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Q4 Tech Report: Wearable Technology in Construction]]></title>
             <description><![CDATA[<article><h1>Q4 Tech Report: Wearable Technology in Construction</h1><p>The future of wearable technology for the construction industry conjures up images of workers covered in clunky machinery-hydraulically powered exosuits multiplying the wearers' strength, while gleaming visors with information-dense heads-up displays block their vision. But companies looking to bring more wearable tech to the jobsite are focusing on getting their innovations into workers' existing gear to boost adoption.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a123d6d0223213d8fdd5f7050781b2865442da0e.jpg"></article>]]></description>
             <link>http://www.enr.com/articles/37987-q4-tech-report-wearable-technology-in-construction</link>
@@ -68,13 +75,6 @@
             <link>http://www.cio.com/article/3041179/vertical-industries/cios-web-portal-brings-construction-company-into-the-digital-age.html</link>
             <guid isPermaLink="false">a2c82905-d47c-4c94-9404-c07bfa461fa8</guid>
             <pubDate>Wed, 09 Mar 2016 17:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dubai building will be entirely 3D printed, right down to the furniture]]></title>
-            <description><![CDATA[<article><h1>Dubai building will be entirely 3D printed, right down to the furniture</h1><p>According to 3DPrint.com, the project with use Special Reinforced Concrete (SRC), Fiber Reinforced Plastic (FRP), and Glass Fiber Reinforced Gypsum (GRG). Heck, even the furniture that's going inside will be 3D printed in addition to both the interior and exterior walls.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cf7804b57fd1fd69994f84f140699e541ed1b66.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2015/07/02/dubai-3d-printed-building-museum-of-the-future/</link>
-            <guid isPermaLink="false">59de11dc-f3a9-4c99-aedb-e80b67a2efbe</guid>
-            <pubDate>Wed, 09 Mar 2016 17:34:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
