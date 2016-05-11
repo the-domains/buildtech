@@ -4,8 +4,15 @@
         <description><![CDATA[Buildtech ]]></description>
         <link>https://thegrid.ai/buildtech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 17:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 17:13:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/buildtech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Microsoft and Autodesk Are Making 'Star Wars' Technology a Mixed Reality]]></title>
+            <description><![CDATA[<article><h1>How Microsoft and Autodesk Are Making 'Star Wars' Technology a Mixed Reality</h1><p>Microsoft and Autodesk hope to turn Star Wars holographic sci-fi technology into a mixed reality for businesses. The tech giants have partnered to experiment with new ways industrial designers, mechanical engineers, and others in product development fields can benefit from using Microsoft's HoloLens augmented reality (AR) headset and Autodesk's Fusion 360 cloud-based 3D CAD (computer-aided design) tool.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4dbca06018c584dbce4755a7a99230b60ac00ea.jpg"></article>]]></description>
+            <link>http://fortune.com/2015/12/08/microsoft-autodesk-mixed-reality/</link>
+            <guid isPermaLink="false">0dce76ee-2919-4997-83c3-d828c9afbade</guid>
+            <pubDate>Wed, 11 May 2016 17:13:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Investment In Architizer Shows That If You're Building It, Venture Capital Will Come]]></title>
             <description><![CDATA[<article><h1>Investment In Architizer Shows That If You're Building It, Venture Capital Will Come</h1><p>While construction and real estate may not be as flashy as delivery services, driverless cars or drones for investors, they're both industries that are drawing real money from venture capitalists looking for new markets under-served by technology. In the last year, venture capitalists spent $250 million dollars on investments in the construction industry and another $1 billion according to data from CB Insights.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73e44d674ad16894be65499fd6bdad779f54bb1b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.engadget.com/2015/08/29/construction-drones/</link>
             <guid isPermaLink="false">0e70e0bb-37f6-40ff-b4ff-5eef70a9f721</guid>
             <pubDate>Wed, 09 Mar 2016 17:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CAT S60 Hands-On: The Phone That Lets You See Like Predator Is Awesome]]></title>
-            <description><![CDATA[<article><h1>CAT S60 Hands-On: The Phone That Lets You See Like Predator Is Awesome</h1><p>Most phones these days are basically the same. A little gimmick here, a pinch of innovation there-but essentially they're all identical. That's not the case with the Cat S60, which is the first smartphone to have FLIR thermal imaging built in. We tried the little beast at MWC and boy, this thing is insane.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08ff2a4b78faca18f3e58c103a4cf9f2c1e97f6e.jpg"></article>]]></description>
-            <link>http://gizmodo.com/cat-s60-hands-on-the-phone-that-lets-you-see-like-pred-1760419995?utm_campaign=socialflow_gizmodo_twitter&amp;utm_source=gizmodo_twitter&amp;utm_medium=socialflow</link>
-            <guid isPermaLink="false">15b1957a-b192-4df0-aace-250165ce7e1b</guid>
-            <pubDate>Fri, 26 Feb 2016 00:04:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
