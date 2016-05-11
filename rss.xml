@@ -4,8 +4,15 @@
         <description><![CDATA[Buildtech ]]></description>
         <link>https://thegrid.ai/buildtech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 17:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 17:13:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/buildtech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Caterpillar's Tech Manager John Carpenter Talks Virtual Reality]]></title>
+            <description><![CDATA[<article><h1>Caterpillar's Tech Manager John Carpenter Talks Virtual Reality</h1><p>The potential of virtual- and augmented-reality headsets is seen not only in the design world but also among major equipment makers, as well. John Carpenter, Caterpillar Inc.'s manager of global construction technology and solutions, illustrated this point when ENR sat down at his office at Cat's headquarters this past August.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d65b01d164151f76a40eaff4b0737dfb83f444bc.jpg"></article>]]></description>
+            <link>http://www.enr.com/articles/37988-caterpillars-tech-manager-john-carpenter-talks-virtual-reality</link>
+            <guid isPermaLink="false">98402855-ee50-4d8c-9705-bfd0ae5edf97</guid>
+            <pubDate>Wed, 11 May 2016 17:13:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Technology Survey Reveals Most US Companies Can't Deliver As-Built BIM Models]]></title>
             <description><![CDATA[<article><h1>Technology Survey Reveals Most US Companies Can't Deliver As-Built BIM Models</h1><p>The JBKnowledge 2015 Construction Technology Report received 2,044 responses from construction industry professionals, polled between June 17 and July 8, 2015. JBKnowledge conducted the survey in conjunction with the Construction Financial Management Association, the Texas A&M University Department of Construction Science and HCSS construction software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d525ce1a0167332f75c4687919b7efa72aad20d7.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.themanufacturer.com/articles/automation-robotics-reach-out-and-touch-the-future/</link>
             <guid isPermaLink="false">8f56aed8-5d3c-42d3-a58f-bb3880b18c86</guid>
             <pubDate>Wed, 09 Mar 2016 17:38:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CIO's Web portal brings construction company into the digital age]]></title>
-            <description><![CDATA[<article><h1>CIO's Web portal brings construction company into the digital age</h1><p>As CIO of J.E. Dunn Construction Group, John Jacobs' most significant IT project was crafting a new Web portal that gives building stakeholders access to digital blueprints and other crucial commercial documents related to construction projects. But it wasn't until a demonstration of the platform's capabilities at a conference in November that he realized how powerful the software had become.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7994534ea1e010ea55d3bf7a23c4da0f362b4f96.jpg"></article>]]></description>
-            <link>http://www.cio.com/article/3041179/vertical-industries/cios-web-portal-brings-construction-company-into-the-digital-age.html</link>
-            <guid isPermaLink="false">a2c82905-d47c-4c94-9404-c07bfa461fa8</guid>
-            <pubDate>Wed, 09 Mar 2016 17:38:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
